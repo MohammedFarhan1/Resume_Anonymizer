@@ -6,3 +6,4 @@ flask-cors==4.0.0
 groq==0.4.1
 streamlit-lottie==0.0.5
 python-dotenv==1.0.0
+httpx>=0.24.0
